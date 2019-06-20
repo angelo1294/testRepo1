@@ -5,7 +5,7 @@
             <steps>
                 <item guid="7bbede9e-764a-4027-b970-92a00fc6c0f5" action="eval" useFieldsInCommand="false">
                     <command>
-                        <body>puts &quot;something&quot;</body>
+                        <body>puts &quot;something1&quot;</body>
                     </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>

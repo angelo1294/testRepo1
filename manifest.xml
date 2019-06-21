@@ -5,7 +5,7 @@
     <vendor>Spirent</vendor>     
     <language>python</language>     
     <interface>Configurable Layer 2 Switch</interface> 
-    <entryPoint>l2test.py</entryPoint>
+    <entryPoint>l2driver.py</entryPoint>
     <resourceProperties>     
         <property optional="true">
             <name>ipAddress</name>
